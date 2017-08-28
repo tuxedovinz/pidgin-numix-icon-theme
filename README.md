@@ -1,25 +1,20 @@
-# pidgin-numix-icon-theme
-Unofficial Numix based Icon Theme for Pidgin
+# tuxedo-pidgin-icons-theme-one
+TUXEDO One Icon Theme for Pidgin 
 
 ## Screenshots
 
-### Numix
-![numix-dark](screenshots/numix-dark.png "Numix (dark)")
+### TUXEDO One
+![tuxedo-one-dark](screenshots/tuxedo-one-dark.png "TUXEDO One (dark)")
 
-![numix-light](screenshots/numix-light.png "Numix (light)")
-
-### Numix-Square
-![numix-square-dark](screenshots/numix-square-dark.png "Numix-Square (dark)")
-
-![numix-square-light](screenshots/numix-square-light.png "Numix-Square (light)")
-
+![tuxedo-one-light](screenshots/tuxedo-one-light.png "TUXEDO One (light)")
 
 ## Installing
-- Copy the numix and/or numix-square folders into ~/.purple/themes/
+- Copy the tuxedo-one folder into ~/.purple/themes/
 - Restart Pidgin
 - Go to Tools > Preferences > Themes
 - Select the new status icon theme
 
 ## Links:
+- Original Developer: https://github.com/8carlosf/pidgin-numix-icon-theme
 - Official Numix Icon Theme: https://github.com/numixproject/numix-icon-theme
 - Pidgin Icons customization Example: https://developer.pidgin.im/wiki/StatusIconThemes

@@ -1,6 +1,6 @@
 <theme 	type="pidgin status icon" 
-		name="numix-square"
-		image="numix.svg"
+		name="tuxedo-one"
+		image="tuxedo-one.svg"
 >
 	<icon id="pidgin-status-available" file="available.svg" />
 	<icon id="pidgin-status-available-i" file="available.svg" />
